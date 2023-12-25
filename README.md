@@ -1,2 +1,2 @@
 # PortalMNL
-Proyecto de Portal de noticias y tienda de libros
+Este es un proyecto para Portal de noticias y tienda de libros.
